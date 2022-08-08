@@ -1,11 +1,11 @@
 {
-    "name": "arielmejiadev/jetbar",
+    "name": "twsowerby/jetbar",
     "description": "It adds a sidebar dashboard theme for Laravel applications with Jetstream.",
     "keywords": [
         "arielmejiadev",
         "jetbar"
     ],
-    "homepage": "https://github.com/arielmejiadev/jetbar",
+    "homepage": "https://github.com/twsowerby/jetbar",
     "license": "MIT",
     "type": "library",
     "authors": [
